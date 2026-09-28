@@ -1,0 +1,11 @@
+Main - INCOMPLETE
+Chessboard - DONE
+PieceType - DONE
+
+chessFigure - INCOMPLETE
+Pawn - INCOMPLETE
+Knight - INCOMPLETE
+Rook - INCOMPLETE
+Bishop - INCOMPLETE
+Queen - INCOMPLETE
+King - INCOMPLETE
