@@ -2,7 +2,7 @@ Main - INCOMPLETE
 Chessboard - DONE  
 PieceType - DONE  
 
-chessFigure - INCOMPLETE  
+chessFigure - DONE  
 Pawn - INCOMPLETE  
 Knight - INCOMPLETE  
 Rook - INCOMPLETE  
