@@ -7,5 +7,5 @@ Pawn - DONE (Not tested)
 Knight - DONE (Not tested)  
 Rook - DONE (Not tested)  
 Bishop - DONE (Not tested)    
-Queen - INCOMPLETE  
-King - INCOMPLETE  
+Queen - DONE (Not tested)      
+King - DONE (Not tested)      
