@@ -9,3 +9,5 @@ Rook - DONE (Not tested)
 Bishop - DONE (Not tested)    
 Queen - DONE (Not tested)      
 King - DONE (Not tested)      
+
+09/29/26 - all classes are now fully functional and commented. 
