@@ -1,9 +1,9 @@
 Main - INCOMPLETE  
-Chessboard - DONE  
-PieceType - DONE  
+Chessboard - DONE (Not tested)
+PieceType - DONE (Not tested)  
 
-chessFigure - DONE  
-Pawn - INCOMPLETE  
+chessFigure - DONE (Not tested)  
+Pawn - DONE (Not tested)  
 Knight - INCOMPLETE  
 Rook - INCOMPLETE  
 Bishop - INCOMPLETE  
