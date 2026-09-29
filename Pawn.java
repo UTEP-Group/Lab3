@@ -3,6 +3,8 @@ public class Pawn extends chessFigure {
         super("Pawn",color,col,row);
     }
 
+    // checks if Pawn can move to target position
+    // white Pawns move up one row, black Pawns move down one row
     @Override
     public boolean verifyMove(char targetCol, int targetRow){
         int currentRow = this.getRow();
