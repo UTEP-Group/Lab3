@@ -37,6 +37,6 @@ public abstract class chessFigure {
         this.row = row;
     }
 
-    public abstract boolean verifyMove();
+    public abstract boolean verifyMove(char targetCol, int targetRow);
 }
 
