@@ -3,6 +3,8 @@ public class Rook extends chessFigure {
         super("Rook",color,col,row);
     }
 
+    // checks if the Rook can move to the target position
+    // a Rook can move in the same row or the same column
     @Override
     public boolean verifyMove(char targetCol, int targetRow){
         int currentRow = this.getRow();
