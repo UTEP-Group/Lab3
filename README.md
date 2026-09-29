@@ -1,5 +1,5 @@
 Main - INCOMPLETE  
-Chessboard - DONE (Not tested)
+Chessboard - DONE (Not tested)  
 PieceType - DONE (Not tested)  
 
 chessFigure - DONE (Not tested)  
