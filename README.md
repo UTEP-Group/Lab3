@@ -6,6 +6,6 @@ chessFigure - DONE (Not tested)
 Pawn - DONE (Not tested)  
 Knight - DONE (Not tested)  
 Rook - DONE (Not tested)  
-Bishop - INCOMPLETE  
+Bishop - DONE (Not tested)    
 Queen - INCOMPLETE  
 King - INCOMPLETE  
