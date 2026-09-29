@@ -3,6 +3,8 @@ public class Knight extends chessFigure {
         super("Knight",color,col,row);
     }
 
+    // checks if the Knight can move to the target position
+    // the Knight moves in an L shape
     @Override
     public boolean verifyMove(char targetCol, int targetRow){
         int currentRow = this.getRow();
