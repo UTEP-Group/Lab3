@@ -5,7 +5,7 @@ PieceType - DONE (Not tested)
 chessFigure - DONE (Not tested)  
 Pawn - DONE (Not tested)  
 Knight - DONE (Not tested)  
-Rook - INCOMPLETE  
+Rook - DONE (Not tested)  
 Bishop - INCOMPLETE  
 Queen - INCOMPLETE  
 King - INCOMPLETE  
